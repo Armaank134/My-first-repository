@@ -1,1 +1,1 @@
-# My-first-repository
+# Pong Project
